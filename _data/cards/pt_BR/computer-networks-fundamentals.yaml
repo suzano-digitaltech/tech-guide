@@ -1,0 +1,42 @@
+name: Redes de Computadores - Fundamentos
+logo: 
+short-description:
+key-objectives:
+  - Rede de computadores é uma malha que interliga milhares de sistemas computacionais para a transmissão de dados. Também conhecidos como nós, esses dispositivos interconectados enviam, recebem e trocam tráfego de dados, voz e vídeo, graças ao hardware e software que compõe o ambiente.
+  - Configurações de redes são essenciais para que seja possível acessar uma aplicação, principalmente se ela estiver na nuvem.
+  - Entenda melhor os componentes de rede e a suas atribuições
+  - Diferenciar os serviços disponibilizados a nível de rede
+  - Saber as diferenças entre as camadas de rede
+  - Saber o que é servidor web, proxy reverso e load balancer
+aditional-objectives:
+contents:
+  - type: SITE
+    title: "IBM: Conceitos de rede e comunicação"
+    link: https://www.ibm.com/docs/pt-br/aix/7.3?topic=management-network-communication-concepts
+  - type: SITE
+    title: "AWS: O que são redes de computadores?"
+    link: https://aws.amazon.com/pt/what-is/computer-networking/
+  - type: SITE
+    title: "Red Hat: O que é gerenciamento de rede?"
+    link: https://www.redhat.com/pt-br/topics/management/what-is-network-management
+  - type: ARTICLE
+    title: "Redes de Computadores — Sabendo o básico — Intro"
+    link: https://medium.com/code-breaker/redes-de-computadores-sabendo-o-b%C3%A1sico-intro-1a7d5653e118
+  - type: ARTICLE
+    title: "O protocolo TCP/IP"
+    link: https://joaomarcuraa.medium.com/o-protocolo-tcp-ip-1dc2cdb88b07
+  - type: YOUTUBE
+    title: "Código Fonte TV: IP (Entenda finalmente como funciona o IPv4 e o IPv6) | Dicionário do Programador"
+    link: https://www.youtube.com/watch?v=O8DmpmBMUSw
+  - type: YOUTUBE
+    title: "Rede de Computadores - Animação em 3D"
+    link: https://www.youtube.com/watch?v=Iqcp3k8DgGw
+  - type: COURSE
+    title: "Enterprise Networking, Security, and Automation"
+    link: https://www.netacad.com/pt-br/courses/networking/ccna-enterprise-networking-security-automation
+  - type: COURSE
+    title: "Switching, Routing, and Wireless Essentials"
+    link: https://www.netacad.com/pt-br/courses/networking/ccna-switching-routing-wireless-essentials
+  - type: COURSE
+    title: "Introduction to Networks"
+    link: https://www.netacad.com/pt-br/courses/networking/ccna-introduction-networks

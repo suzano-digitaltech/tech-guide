@@ -1,0 +1,7 @@
+query HomeGetAllGuides($locale: SiteLocale, $input: GuidesInput) {
+  guides(locale: $locale, input: $input) {
+    name
+    slug
+    tags
+  }
+}

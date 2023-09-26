@@ -1,0 +1,21 @@
+query AllPathsForActiveCard($locale: SiteLocale, $input: GuidesInput) {
+  guides(locale: $locale, input: $input) {
+    slug
+    expertises {
+      name
+      cards {
+        item {
+          slug
+        }
+      }
+    }
+    collaborations {
+      name
+      cards {
+        item {
+          slug
+        }
+      }
+    }
+  }
+}

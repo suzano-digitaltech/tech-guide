@@ -1,0 +1,22 @@
+name: Visualização de Dados
+logo: 
+short-description:
+key-objectives:
+  - A visualização de dados é uma expressão contemporânea da comunicação visual que consiste na representação visual de dados.
+  - Mapear dados abstratos em representações visuais
+  - Representar visualmente os dados que estão presentes no nosso mundo real
+  - Usar Python, Matplotlib and Seaborn para gerar visualizações de dados
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: "Princípios básicos da Visualização de Dados"
+    link: https://medium.com/datavizbr/princ%C3%ADpios-b%C3%A1sicos-da-visualiza%C3%A7%C3%A3o-de-dados-5ebc7150fc81
+  - type: ARTICLE
+    title: "3 dicas para criar uma Visualização de Dados de sucesso"
+    link: https://medium.com/datavizbr/3-dicas-para-criar-uma-visualiza%C3%A7%C3%A3o-de-dados-de-sucesso-dica-0-n%C3%A3o-comece-pela-visualiza%C3%A7%C3%A3o-73154f5e56f3
+  - type: YOUTUBE
+    title: "Luiz Ludwig: O que é visualização dos dados?"
+    link: https://www.youtube.com/watch?v=TgLIgmE13rI
+  - type: YOUTUBE
+    title: "Canal FLAI: 6 Dicas de Visualização de Dados"
+    link: https://www.youtube.com/watch?v=gtkrwzt5NJ0

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "/pt-BR/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/pt-BR/path/front-end-angular/",
+    "destination": "/pt-BR/path/angular/",
+    "permanent": true
+  },
+  {
+    "source": "/pt-BR/path/data-scientist/",
+    "destination": "/pt-BR/path/data-science/",
+    "permanent": true
+  },
+  {
+    "source": "/pt-BR/path/artificial-intelligence/",
+    "destination": "/pt-BR/path/inteligencia-artificial/",
+    "permanent": true
+  },
+  {
+    "source": "/es/path/data-scientist/",
+    "destination": "/es/path/data-science/",
+    "permanent": true
+  }
+]

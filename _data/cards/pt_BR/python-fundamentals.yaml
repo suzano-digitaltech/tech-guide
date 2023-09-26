@@ -1,0 +1,34 @@
+name: Python - Fundamentos
+logo: 
+short-description:
+key-objectives:
+  - Python é uma linguagem de programação de alto nível, de uso geral, amplamente utilizada em aplicações web, desenvolvimento de software, ciência de dados e Machine Learning. Sua filosofia de projeto enfatiza a legibilidade do código com o uso de indentação significativa. Python é dinamicamente tipada e tem um garbage collector.
+  - Conhecer os tipos primitivos
+  - Declarar variáveis, considerando os diferentes tipos
+  - Usar estruturas condicionais ('if', 'else')
+  - Conhecer os operadores de atribuição e comparação
+  - Usar estruturas de repetição e laços ('while', 'for')
+  - Usar funções, passando parâmetros e argumentos
+  - Manipular métodos
+  - Manipular arrays e listas
+  - Obter dados de uma API
+  - Criar construtores
+  - Funções anônimas
+  - Manipular objetos JSON
+  - Lidar com datas
+contents:
+  - type: SITE
+    title: "Documentação Python"
+    link: https://docs.python.org/pt-br/3/tutorial/
+  - type: ARTICLE
+    title: "Programação | Python — Parte 1"
+    link: https://medium.com/turing-talks/turing-talks-4-python-parte-1-29b8d9efd0a5
+  - type: ARTICLE
+    title: "Introdução ao Python"
+    link: https://medium.com/@goularteduarda.a/introdu%C3%A7%C3%A3o-ao-python-d30c29eba0d6
+  - type: YOUTUBE
+    title: "Dabieu: Introdução à programação com Python - Conceitos Básicos"
+    link: https://www.youtube.com/watch?v=uKq3Scxz0cU
+  - type: YOUTUBE
+    title: "Eduardo Mendes: Curso introdutório de Python"
+    link: https://www.youtube.com/watch?v=yTQDbqmv8Ho

@@ -1,0 +1,35 @@
+name: Big Data e Engenharia de Dados
+logo: 
+short-description:
+key-objectives:
+  - Big data é a área do conhecimento que estuda como tratar, analisar e obter informações a partir de conjuntos de dados grandes demais para serem analisados por sistemas tradicionais.
+  - Engenharia de Dados envolve o desenvolvimento e organização de processos para coleta, armazenamento e transformação de dados em grande escala.
+  - Criar um pipeline de dados
+  - Conhecer o Apache Airflow
+  - Conhecer o Apache Spark
+  - Conhecer o conceito de Data Lake
+  - Interagir com servidores na nuvem
+  - Criar aplicações Spark
+aditional-objectives:
+contents:
+  - type: SITE
+    title: "Oracle: O que é Big Data?"
+    link: https://www.oracle.com/br/big-data/what-is-big-data/
+  - type: SITE
+    title: "Glassdoor: O que faz um Engenheiro De Dados?"
+    link: https://www.glassdoor.com.br/Carreira/engenheiro-de-dados-carreira_KO0,19.htm
+  - type: ARTICLE
+    title: "A Era do Big Data"
+    link: https://medium.com/gabriel-luz/a-era-do-big-data-64ebad5859f2
+  - type: YOUTUBE
+    title: "Nerdologia: Big Data"
+    link: https://www.youtube.com/watch?v=hEFFCKxYbKM
+  - type: YOUTUBE
+    title: "Daniel Ramos Nogueira: O que é Big Data? O que é Data Analytics?"
+    link: https://www.youtube.com/watch?v=4CNqiAgmqSc
+  - type: YOUTUBE
+    title: "Millena Gená: O que faz um Engenheiro de Dados?"
+    link: https://www.youtube.com/watch?v=Zsos7iTylqo
+  - type: YOUTUBE
+    title: "Jayne Sou: O que faz um Engenheiro de Dados"
+    link: https://www.youtube.com/watch?v=qvIrIqLqWfw

@@ -1,0 +1,18 @@
+name: Pesquisa operacional - Fundamentos
+logo: 
+short-description:
+key-objectives:
+  - A otimização auxilia na escolha da melhor alternativa entre várias opções disponíveis.
+  - Determina a melhor forma de alocar recursos limitados para atingir um objetivo específico.
+  - Identifica e elimina ineficiências na produção e distribuição.
+aditional-objectives:
+contents:
+  - type: COURSE
+    title: "Introdução a otimização - Academia Digital Suzano"
+    link: https://suzano.sharepoint.com/sites/formaturaacademiadigital/SitePages/otimizacao.aspx
+  - type: YOUTUBE
+    title: "Optimization for Data Science"
+    link: https://www.youtube.com/watch?v=4Xokcy8jeoI
+  - type: ARTICLE
+    title: "Optimization. The three pillars of Data Science are"
+    link: https://medium.com/analytics-vidhya/optimization-acb996a4623c

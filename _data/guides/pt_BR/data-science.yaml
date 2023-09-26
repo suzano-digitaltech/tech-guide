@@ -1,0 +1,81 @@
+name: Data Science
+tags: 
+  - data
+expertise:
+  - name: Data Science Jr
+    cards:
+      - python-for-data-science:
+        priority: 10
+      - data-science-fundamentals:
+        priority: 10
+      - optimization-fundamentals:
+        priority: 10
+      - statistics-and-math-fundamentals:
+        priority: 10
+      - data-extraction-and-processing:
+        priority: 9
+      - supervised-machine-learning:
+        priority: 9
+      - databricks-fundamentals:
+        priority: 8
+      - data-visualization:
+        priority: 8
+  - name: Data Science Mid
+    cards:
+      - advanced-learning-algorithms:
+        priority: 10
+      - time-series:
+        priority: 10
+      - machine-learning-model-evaluation:
+        priority: 9
+      - sql-fundamentals:
+        priority: 9
+      - web-scraping:
+        priority: 7
+      - statistical-tests:
+        priority: 7
+      - simulation:
+        priority: 7
+  - name: Data Science in depth
+    cards:
+      - deep-learning:
+        priority: 9
+      - reinforcement-learning:
+        priority: 9
+      - computer-vision:
+        priority: 7
+      - natural-language-processing:
+        priority: 7
+collaboration:
+  - name: Cloud, Big Data e Sistemas
+    cards:
+      - big-data-fundamentals:
+        priority: 10
+      - big-data-and-data-engineering:
+        priority: 9
+      - cloud-fundamentals:
+        priority: 7
+      - git-and-github-fundamentals:
+        priority: 7
+      - containers:
+        priority: 9
+      - software-developer:
+        priority: 7
+      - software-testing:
+        priority: 8
+      - linux-fundamentals:
+        priority: 7
+  - name: Business
+    cards:
+      - business-process-management:
+        priority: 9
+      - business-intelligence-fundamentals:
+        priority: 8
+      - storytelling-with-data:
+        priority: 8
+      - excel:
+        priority: 6
+        optional: true
+      - communication-skills:
+        priority: 7
+video: https://www.youtube.com/watch?v=7KhaiCC3fJQ&list=PLh2Y_pKOa4UeBQNf1JQzc4SfegYR0gO-N&index=6&ab_channel=Alura

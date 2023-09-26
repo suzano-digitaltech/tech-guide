@@ -1,0 +1,31 @@
+name: Python para Ciência de Dados
+logo: 
+short-description:
+key-objectives:
+  - Sintaxe clara e intuitiva, tornando a curva de aprendizado mais suave.
+  - Suporte para programação procedural, orientada a objetos e funcional.
+  - Permite que profissionais de áreas diversas, sem background em programação, comecem a codificar rapidamente.
+  - Oferece uma ampla variedade de bibliotecas para análise de dados (Pandas, NumPy), visualização (Matplotlib, Seaborn) e machine learning (Scikit-learn, TensorFlow, PyTorch).
+  - Grande comunidade de desenvolvedores contribuindo com bibliotecas e ferramentas.
+  - Abundância de recursos educativos, tutoriais e cursos disponíveis.
+  - Integração eficaz com bancos de dados e plataformas de big data.
+  - Permite a prototipagem rápida de soluções, o que é essencial na ciência de dados para testar hipóteses ou modelos.
+  - Oferece diversas bibliotecas que facilitam a criação de gráficos e visualizações interativas.
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: "Primeiros passos em Data Science utilizando Python para análise de dados"
+    link: https://medium.com/data-hackers/primeiros-passos-em-data-science-utilizando-python-para-an%C3%A1lise-de-dados-823436432b28
+  - type: ARTICLE
+    title: "Python para Análise de Dados"
+    link: https://medium.com/@aasouzaconsult/python-para-an%C3%A1lise-de-dados-24028d7013b3
+  - type: YOUTUBE
+    title: "Filipe Deschamps: Introdução a Ciência de Dados (Primeira aula prática programando em Python)"
+    link: https://www.youtube.com/watch?v=F608hzn_ygo
+  - type: YOUTUBE
+    title: "Jerry Strazzeri: Como estudar Python para Ciência de Dados"
+    link: https://www.youtube.com/watch?v=kIKdbBc6npU
+  - type: YOUTUBE
+    title: "Prof. Cíntia Pinho: Introdução a Python para Ciências de Dados"
+    link: https://www.youtube.com/watch?v=M13p7EHA6Ro
+

@@ -1,0 +1,33 @@
+name: Estruturas de Dados
+logo: 
+short-description:
+key-objectives:
+  - No contexto dos computadores, uma estrutura de dados é uma forma específica de armazenar e organizar os dados na memória do computador para que esses dados possam ser facilmente recuperados e utilizados de forma eficiente quando necessário posteriormente.
+  - Conhecer as principais estruturas de dados
+  - Implementar as principais estruturas de dados
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: "Estrutura de dados"
+    link: https://medium.com/php-word/estrutura-de-dados-6afb386a6fc1
+  - type: ARTICLE
+    title: "Estrutura de Dados e Algoritmo - parte 1"
+    link: https://medium.com/@PaoloProdossimoLopes/01-estrutura-de-dados-e-algoritmo-9cb6a9b14aa
+  - type: ARTICLE
+    title: "Estrutura de Dados e Algoritmo - parte 2"
+    link: https://medium.com/@PaoloProdossimoLopes/02-estrutura-de-dados-e-algoritmo-deba0b384a0f
+  - type: YOUTUBE
+    title: "Mario Souto - Dev Soutinho: Estruturas de dados com JavaScript"
+    link: https://www.youtube.com/watch?v=MweeZn1rR8s
+  - type: YOUTUBE
+    title: "Fabio Akita: Árvores"
+    link: https://www.youtube.com/watch?v=9GdesxWtOgs
+  - type: YOUTUBE
+    title: "Loiane Groner: Estrutura de Dados com Java | Lista Encadeada"
+    link: https://www.youtube.com/watch?v=RW0oD2L_tSg
+  - type: YOUTUBE
+    title: "Loiane Groner: Estrutura de Dados com Java | Filas"
+    link: https://www.youtube.com/watch?v=RdoLTgJSV_c
+  - type: YOUTUBE
+    title: "Loiane Groner: Estrutura de Dados com Java | Pilhas"
+    link: https://www.youtube.com/watch?v=ZdU4wMyiTSs

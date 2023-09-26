@@ -1,0 +1,23 @@
+name: DevOps e Cloud - Conceitos
+logo: 
+short-description:
+key-objectives:
+  - DevOps desempenha um papel importante na integração contínua e na entrega contínua de projetos, ao garantir a colaboração eficaz entre desenvolvedores, operadores de sistemas e outros stakeholders importantes em um projeto. Essa pessoa também é fundamental na implementação e gerenciamento de soluções de computação em nuvem, facilitando o acesso a recursos e serviços, bem como a escalabilidade e a segurança dos sistemas.
+  - DevOps é essencial para a engenharia de dados, pois permite a integração contínua e a entrega eficiente de projetos. A colaboração entre equipes de desenvolvimento, operações e engenharia de dados facilita a integração de fontes de dados, processamento em tempo real e entrega de insights. Além disso, práticas DevOps garantem testes automatizados, monitoramento e governança de dados, garantindo qualidade e segurança nas soluções analíticas. Essa abordagem agiliza a gestão de dados em escala, possibilitando tomadas de decisões informadas.
+aditional-objectives:
+contents:
+  - type: SITE
+    title: "RedHat: Introdução ao DevOps"
+    link: https://www.redhat.com/pt-br/topics/devops 
+  - type: ARTICLE
+    title: "Conceitos de DevOps e SRE"
+    link: https://medium.com/sysadminas/conceitos-de-devops-e-sre-bbb05bb3c9fe 
+  - type: YOUTUBE
+    title: "Código Fonte TV: DevOps // Dicionário do Programador"
+    link: https://www.youtube.com/watch?v=iwf6kcvxeD4 
+  - type: YOUTUBE
+    title: "Akita: Entendendo Devops para Iniciantes em Programação (Parte 1)"
+    link: https://www.youtube.com/watch?v=bwO8EZf0gLI 
+  - type: YOUTUBE
+    title: "Akita: Entendendo Devops para Iniciantes em Programação (Parte 2)"
+    link: https://www.youtube.com/watch?v=mcwnQVAn0pw 

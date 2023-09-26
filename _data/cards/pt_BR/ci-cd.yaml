@@ -1,0 +1,23 @@
+name: Entrega e integração contínuas (CI/CD)
+logo: 
+short-description:
+key-objectives:
+  - CI/CD é a abreviação de Continuous Integration/Continuous Delivery, traduzindo para o português "entrega e integração contínuas". Trata-se de uma prática de desenvolvimento de software que visa tornar a integração de código mais eficiente por meio de builds e testes automatizados.
+  - Automatizar a integração de código entre varias partes da equipe se tornou cada vez mais importante, ja que assim é possivel acelerar o desenvolvimento e diminiur o tempo de entrega de software.
+  - Executar testes automatizados da aplicação para verificar seu funcionamento.
+  - Realizar a entrega de atualizações de forma automatica e com segurança.
+  - Realizar testes de conexão e testes de carga para evitar que a aplicação apresente problemas ao ser atualizada.
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: "O que é CI/CD?"
+    link: https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd
+  - type: ARTICLE
+    title: "Sobre integração contínua"
+    link: https://docs.github.com/pt/actions/automating-builds-and-tests/about-continuous-integration
+  - type: YOUTUBE
+    title: "Código Fonte TV: Pipeline (CD/CI) | Dicionário do Programador"
+    link: https://www.youtube.com/watch?v=AZtTd3pFVTY
+  - type: PODCAST
+    title: "Integração Contínua, Deploy Contínuo e Github Actions"
+    link: https://cursos.alura.com.br/extra/hipsterstech/integracao-continua-deploy-continuo-e-github-actions-hipsters-213-a335

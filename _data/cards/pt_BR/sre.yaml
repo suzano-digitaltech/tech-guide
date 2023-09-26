@@ -1,0 +1,64 @@
+name: Engenharia de Confiabilidade de Sites (SRE)
+logo: 
+short-description:
+key-objectives:
+  - A Engenharia de Confiabilidade de Sites (SRE) é a prática de usar ferramentas de software para automatizar tarefas de infraestrutura de TI, como gerenciamento de sistemas e monitoramento de aplicativos.
+  - Coletar métricas sobre a sáude da aplicação e da máquina em que ela se encontra
+  - Montar dashboards para analisar todas as informações coletadas
+aditional-objectives:
+contents:
+  - type: SITE
+    title: "AWS: O que é engenharia de confiabilidade dos sites?"
+    link: https://aws.amazon.com/pt/what-is/sre/
+  - type: SITE
+    title: "Google Cloud: Medição de DevOps - monitoramento e observabilidade"
+    link: https://cloud.google.com/architecture/devops/devops-measurement-monitoring-and-observability?hl=pt-br
+  - type: SITE
+    title: "Red Hat: O que é Jaeger?"
+    link: https://www.redhat.com/pt-br/topics/microservices/what-is-jaeger
+  - type: ARTICLE
+    title: "Conceitos de DevOps e SRE"
+    link: https://medium.com/sysadminas/conceitos-de-devops-e-sre-bbb05bb3c9fe
+  - type: YOUTUBE
+    title: "Google Cloud Events: Introdução ao Site Reliability Engineering (SRE)"
+    link: https://www.youtube.com/watch?v=DNuSRFIAgxQ&ab_channel=GoogleCloudEvents
+  - type: YOUTUBE
+    title: "Estudando Devops: O que é DevOps? | O que é SRE?"
+    link: https://www.youtube.com/watch?v=E__bROyybgc
+  - type: YOUTUBE
+    title: "IBM Technology: Observability vs. APM vs. Monitoring (inglês)"
+    link: https://www.youtube.com/watch?v=CAQ_a2-9UOI
+alura-contents:
+  - type: PODCAST
+    title: "SRE: Site Reliability Engineering – Hipsters #187"
+    link: https://www.hipsters.tech/sre-site-reliability-engineering-hipsters-187/
+  - type: PODCAST
+    title: "SRE, Segurança e DevOps no Pipefy - Hipsters On The Road #25"
+    link: https://www.hipsters.tech/sre-seguranca-e-devops-no-pipefy-hipsters-on-the-road-25/
+  - type: PODCAST
+    title: "Observabilidade no Itaú – Hipsters Ponto Tech #334"
+    link: https://www.hipsters.tech/observabilidade-no-itau-hipsters-ponto-tech-334/
+  - type: PODCAST
+    title: "Ferramentas de Monitoramento e Observabilidade - Hipsters Ponto Tech #281"
+    link: https://www.alura.com.br/podcast/hipsterstech-ferramentas-de-monitoramento-e-observabilidade-hipsters-ponto-tech-281-a1317
+  - type: COURSE
+    title: "SRE - Engenharia de Confiabilidade de Sites"
+    link: https://www.alura.com.br/videos/sre-engenharia-de-confiabilidade-de-sites-c1112
+  - type: COURSE
+    title: "Curso Observabilidade: coletando métricas de uma aplicação com Prometheus"
+    link: https://www.alura.com.br/curso-online-observabilidade-prometheus
+  - type: COURSE
+    title: "Curso Monitoramento: Prometheus, Grafana e Alertmanager"
+    link: https://www.alura.com.br/curso-online-monitoramento-prometheus-grafana-alertmanager
+  - type: COURSE
+    title: "Curso Confiabilidade: garantindo o estado de integridade de sistemas através de logs"
+    link: https://www.alura.com.br/curso-online-confiabilidade-garantindo-estado-integridade
+  - type: COURSE
+    title: "Curso Confiabilidade: centralizando logs com Grafana Loki"
+    link: https://www.alura.com.br/curso-online-confiabilidade-centralizando-logs-grafana-loki
+  - type: COURSE
+    title: "Curso Rastreamento: fazendo tracing com Jaeger e OpenTelemetry"
+    link: https://www.alura.com.br/curso-online-rastreamento-tracing-jaeger-opentelemetry
+  - type: COURSE
+    title: "Formação SRE"
+    link: https://www.alura.com.br/formacao-sre

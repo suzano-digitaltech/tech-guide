@@ -1,0 +1,33 @@
+name: Desenvolvimento de software
+logo: 
+short-description:
+key-objectives:
+  - O Aprendizado de Máquina ou Machine Learning é um subcampo da Engenharia e da Ciência da Computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.
+  - Aprendizado supervisionado
+  - Utilizar algoritmos de classificação
+  - Utilizar algoritmos de regressão
+  - Utilizar o Scikit-learn para criar modelos de machine learning
+aditional-objectives:
+contents:
+  - type: SITE
+    title: "Amazon AWS: O que é machine learning?"
+    link: https://aws.amazon.com/pt/what-is/machine-learning/
+  - type: ARTICLE
+    title: "A explicação mais simples sobre aprendizado de máquina que você lerá"
+    link: https://kozyrk.medium.com/a-explica%C3%A7%C3%A3o-mais-simples-sobre-aprendizado-de-m%C3%A1quina-que-voc%C3%AA-ler%C3%A1-6d4e61002401
+  - type: ARTICLE
+    title: "Introdução ao Aprendizado de Máquina"
+    link: https://medium.com/@avinicius.adorno/introdu%C3%A7%C3%A3o-a-aprendizado-de-m%C3%A1quina-e39ec5ef459b
+  - type: ARTICLE
+    title: "Árvores de Decisão"
+    link: https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69
+  - type: YOUTUBE
+    title: "Nerdologia: Machine Learning - como ensinar uma máquina a aprender"
+    link: https://www.youtube.com/watch?v=mhe5e2B9bL8
+  - type: YOUTUBE
+    title: "Filipe Deschamps: Qual a diferença entre Inteligência Artificial, Machine Learning, Data Science, Deep Learning, etc?"
+    link: https://www.youtube.com/watch?v=ccZ2pyr3YDw
+  - type: YOUTUBE
+    title: "Filipe Deschamps: Machine Learning - Tutorial prático usando apenas o navegador"
+    link: https://www.youtube.com/watch?v=JyGGMyR3x5I
+

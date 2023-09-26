@@ -1,0 +1,37 @@
+name: Git e GitHub - Fundamentos
+logo: 
+short-description:
+key-objectives:
+  - Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+  - GitHub é um serviço de hospedagem para desenvolvimento de software e controle de versão usando Git.
+  - Criar um repositório
+  - Clonar um repositório
+  - Fazer commit, push e pull de e para o repositório
+  - Reverter um commit
+  - Criar branches e pul requests
+  - Lidar com merge e conflitos
+contents:
+  - type: SITE
+    title: "GitHub Documentação"
+    link: https://docs.github.com/pt
+  - type: SITE
+    title: "GitHub Pages Documentação"
+    link: https://docs.github.com/pt/pages/getting-started-with-github-pages/about-github-pages
+  - type: SITE
+    title: "Git School - Visualizing Git"
+    link: https://git-school.github.io/visualizing-git/
+  - type: SITE
+    title: "Dangit, Git!?!"
+    link: https://dangitgit.com/
+  - type: YOUTUBE
+    title: "Rafaella Ballerini: O que é Git e GitHub? - definição e conceitos importantes 1/2"
+    link: https://www.youtube.com/watch?v=DqTITcMq68k
+  - type: YOUTUBE
+    title: "Rafaella Ballerini: Como usar Git e GitHub na prática! - desde o primeiro commit até o pull request! 2/2"
+    link: https://www.youtube.com/watch?v=UBAX-13g8OM
+  - type: YOUTUBE
+    title: "Mario Souto - Dev Soutinho: Git: Entendendo de vez como funciona do melhor e mais visual jeito possível"
+    link: https://www.youtube.com/watch?v=4-tfJ-ZyA0Q
+  - type: YOUTUBE
+    title: "Mario Souto - Dev Soutinho: Como colocar seu projeto no ar DE GRAÇA via GitHub! | Hospedagem com GitHub Pages"
+    link: https://www.youtube.com/watch?v=BU-w2_Aae54

@@ -1,0 +1,23 @@
+name: Big Data - Fundamentos
+logo: 
+short-description:
+key-objectives:
+  - Big Data refere-se a conjuntos de dados extremamente grandes e complexos, que não podem ser facilmente processados ou gerenciados por métodos tradicionais. Esses conjuntos de dados são caracterizados por seu volume massivo, velocidade de geração e variedade de tipos e formatos. Com a explosão da quantidade de dados gerados diariamente, provenientes de diversas fontes como redes sociais, dispositivos IoT e transações comerciais, o Big Data apresenta desafios e oportunidades para extrair insights valiosos e tomar decisões informadas.
+  - A análise de Big Data envolve o uso de técnicas e tecnologias avançadas, como armazenamento distribuído, processamento em paralelo e aprendizado de máquina, para explorar e transformar esses dados em informações significativas para empresas, organizações e pesquisadores.
+aditional-objectives:
+contents:
+  - type: SITE
+    title: "Oracle: O que é Big Data?"
+    link: https://www.oracle.com/br/big-data/what-is-big-data/
+  - type: YOUTUBE
+    title: "Código Fonte TV: Big Data"
+    link: https://www.youtube.com/watch?v=IpfE8B9H9cI 
+  - type: YOUTUBE
+    title: "Nerdologia: BIG DATA"
+    link: https://www.youtube.com/watch?v=hEFFCKxYbKM&pp=ygUIQklHIERBVEE%3D&ab_channel=Nerdologia
+  - type: ARTICLE
+    title: "A Era do Big Data"
+    link: https://medium.com/gabriel-luz/a-era-do-big-data-64ebad5859f2 
+  - type: YOUTUBE
+    title: "Curso de Big Data"
+    link: https://www.youtube.com/playlist?list=PLzKHEB8QCel8UIA2JfUTYQaUgvJa6mUog 

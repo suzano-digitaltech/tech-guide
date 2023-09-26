@@ -1,0 +1,37 @@
+name: Cloud - Fundamentos
+logo: 
+short-description:
+key-objectives:
+  - Cloud, ou computação em nuvem é a distribuição de serviços de computação pela Internet usando um modelo de preço pago conforme o uso. Uma nuvem é composta de vários recursos de computação, que abrangem desde os próprios computadores (ou instâncias, na terminologia de nuvem) até redes, armazenamento, bancos de dados e o que estiver em torno deles. Ou seja, tudo o que normalmente é necessário para montar o equivalente a uma sala de servidores, ou mesmo um data center completo, estará pronto para ser utilizado, configurado e executado.
+  - Conhecer a diferença entre IaaS, PaaS e SaaS
+  - Conhecer os maiores provedores de cloud
+  - Especializar-se em algum provedor
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: "Computação em nuvem"
+    link: https://medium.com/sysadminas/computa%C3%A7%C3%A3o-em-nuvem-515930304cf9
+  - type: ARTICLE
+    title: "O que é cloud?"
+    link: https://gabriel-faraday.medium.com/o-que-%C3%A9-cloud-991109e708c6
+  - type: YOUTUBE
+    title: "Gabs Ferreira: Por que investir e estudar cloud?"
+    link: https://www.youtube.com/watch?v=Z45BTNeZ1l0
+  - type: YOUTUBE
+    title: "Andre Iacono: O que é MICROSOFT AZURE? Qual Certificação começar em 2022?"
+    link: https://www.youtube.com/watch?v=f-oVzkvMwnE
+  - type: YOUTUBE
+    title: "AWS: O que é a AWS?"
+    link: https://www.youtube.com/watch?v=8JI9wQ8sUdQ 
+  - type: YOUTUBE
+    title: "O que é Google Cloud e por que aprender?"
+    link: https://www.youtube.com/shorts/Lzq3f1DHWcI
+  - type: ARTICLE
+    title: "AWS vs Google Cloud vs Azure: o que cada um tem de melhor?"
+    link: https://medium.com/data-hackers/aws-vs-google-cloud-vs-azure-o-que-cada-um-tem-de-melhor-52107174f7b7 
+  - type: YOUTUBE
+    title: "Código Fonte TV: Azure (A plataforma Cloud da Microsoft)"
+    link: https://www.youtube.com/watch?v=YgE-sZaCuJ0 
+  - type: YOUTUBE
+    title: "Mundo da Cloud: AWS do Zero ao Expert"
+    link: https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz 

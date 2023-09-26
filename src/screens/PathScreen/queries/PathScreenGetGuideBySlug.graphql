@@ -1,0 +1,65 @@
+query PathScreenGetGuideBySlug($input: GuideInput, $locale: SiteLocale) {
+  guide(input: $input, locale: $locale) {
+    slug
+    name
+    video
+    faq {
+      title
+      answer
+    }
+    expertises {
+      name
+      cards {
+        priority
+        optional
+        item {
+          slug
+          name
+          keyObjectives {
+            id
+            name
+          }
+          aluraContents {
+            id
+            title
+            link
+            type
+          }
+          contents {
+            id
+            title
+            link
+            type
+          }
+        }
+      }
+    }
+    collaborations {
+      name
+      cards {
+        priority
+        optional
+        item {
+          slug
+          name
+          keyObjectives {
+            id
+            name
+          }
+          aluraContents {
+            id
+            title
+            link
+            type
+          }
+          contents {
+            id
+            title
+            link
+            type
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+name: Estatística e Matemática - Fundamentos
+logo: 
+short-description:
+key-objectives:
+  - A matemática está no cerne da construção de modelos que prevêem tendências e comportamentos futuros.
+  - A estatística fornece as ferramentas necessárias para interpretar, resumir e inferir a partir de conjuntos de dados. Auxilia na tomada de decisões informadas ao avaliar a significância e confiabilidade dos dados. Ajuda a entender e quantificar a variabilidade, que é intrínseca aos dados.
+  - Matemática e a estatística são cruciais para testar e validar modelos, garantindo que eles sejam robustos e confiáveis.
+  - Uso de modelagem de relações entre variáveis para previsão e inferência, algoritmos para categorizar dados em grupos específicos e estatística para identificar e aprender padrões em dados complexos.
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: "Preciso saber matemática para aprender Ciência de Dados?"
+    link: https://beatrizyumi.medium.com/preciso-saber-matem%C3%A1tica-para-aprender-ci%C3%AAncia-de-dados-9a9b7c7846a9
+  - type: ARTICLE
+    title: "Estatística Descritiva para Ciência de Dados"
+    link: https://paulors82.medium.com/estat%C3%ADstica-descritiva-para-ci%C3%AAncia-de-dados-582b02d97e82
+  - type: YOUTUBE
+    title: "Mario Filho: As 3 Áreas da Matemática Usadas em Data Science"
+    link: https://www.youtube.com/watch?v=niF_T21vdZ4
+  - type: YOUTUBE
+    title: "PrograMaria: Estatística básica para Ciência de Dados"
+    link: https://www.youtube.com/watch?v=xiZwte8D1Xs
+  - type: YOUTUBE
+    title: "Data Viking: Estatística básica para ciência de dados"
+    link: https://www.youtube.com/watch?v=K_q6uCgV0Mk
+  - type: YOUTUBE
+    title: "FC Nuvem: Introdução a Estatística para Ciência de Dados"
+    link: https://www.youtube.com/watch?v=NdRKIIFa63c
+
