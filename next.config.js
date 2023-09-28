@@ -4,6 +4,7 @@ const redirects = require("./redirects.json");
 const nextConfig = {
   trailingSlash: true,
   reactStrictMode: true,
+  basePath: '/tech-guide',
   compiler: {
     styledComponents: true,
   },
