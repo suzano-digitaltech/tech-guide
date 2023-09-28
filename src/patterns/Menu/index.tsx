@@ -27,7 +27,7 @@ export default function Menu() {
       >
         <Link href="/">
           <Image
-            src="/assets/image/logo.svg"
+            src="assets/image/logo.svg"
             alt={i18n.content("MENU.LOGO_ALT")}
             styleSheet={{
               width: "29px",
