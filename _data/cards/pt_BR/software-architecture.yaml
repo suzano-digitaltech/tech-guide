@@ -1,0 +1,18 @@
+name: Arquitetura de Software
+logo: 
+short-description:
+key-objectives:
+  - A Arquitetura de Software é o projeto estrutural e organizacional de um sistema de software, incluindo a definição de componentes, módulos, interfaces e seus relacionamentos. Ela determina como o software é dividido em partes, como essas partes interagem e se comunicam, e fornece uma visão de alto nível da estrutura do sistema. A Arquitetura de Software é essencial para garantir a escalabilidade, manutenibilidade e desempenho de aplicações de software, bem como para orientar o desenvolvimento e a tomada de decisões técnicas durante o ciclo de vida do projeto.
+  - "Padrões de Projeto: Estudar padrões de projeto de software, como Singleton, Factory, Observer, entre outros, para resolver problemas comuns de design."
+  - "Requisitos de Software: Coletar, analisar e documentar requisitos funcionais e não funcionais do sistema."
+  - "Padrões Arquiteturais: Compreender os padrões arquiteturais, como arquitetura em camadas, microsserviços, monolíticos, orientada a eventos, entre outros."
+  - "Escalabilidade e Desempenho: Compreender como projetar sistemas escaláveis, otimizando o desempenho e considerando a distribuição de carga."
+  - "Segurança: Conhecer as práticas de segurança, como autenticação, autorização, criptografia e proteção contra ameaças."
+  - "Documentação Arquitetural: Criar documentação clara e detalhada que descreva a arquitetura do sistema, suas decisões e justificativas."
+contents:
+  - type: SITE
+    title: "DESIGN PATTERNS"
+    link: https://refactoring.guru/design-patterns/what-is-pattern
+  - type: YOUTUBE
+    title: "PLACEHOLDER"
+    link: https://www.youtube.com/watch?v=-JO5oHRkYbk&ab_channel=HackvedaLimited

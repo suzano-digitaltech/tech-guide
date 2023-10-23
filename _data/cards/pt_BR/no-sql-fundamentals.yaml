@@ -1,0 +1,25 @@
+name: SQL - Fundamentos
+logo: 
+short-description:
+key-objectives:
+  - Bancos de Dados Não-Relacionais (ou NoSQL, do inglês "Not Only SQL") são sistemas de gerenciamento de dados que divergem do modelo tradicional de bancos de dados relacionais. Eles são projetados para lidar com grandes volumes de dados não-estruturados ou semiestruturados, e frequentemente usam modelos de dados flexíveis, como documentos, colunas, grafos ou chave-valor. Bancos de Dados Não-Relacionais são escolhidos quando se necessita de escalabilidade horizontal, flexibilidade de esquema, e alta velocidade de leitura e gravação, sendo especialmente úteis em aplicações web, big data e ambientes de nuvem.
+  - "Tipos de Bancos de Dados NoSQL: Compreenda os principais tipos de bancos de dados NoSQL, como documentos, colunas, grafos e chave-valor, e suas características distintas."
+  - "Modelagem de Dados: Aprenda a modelar dados de acordo com o tipo de banco de dados NoSQL escolhido, considerando esquemas flexíveis e semiestruturados."
+  - "Escalabilidade: Entenda os conceitos de escalabilidade horizontal e vertical, que são fundamentais em NoSQL, e como aplicá-los para lidar com volumes crescentes de dados."
+  - "Consistência e Tolerância a Falhas: Explore os modelos de consistência em NoSQL, incluindo os trade-offs entre consistência, disponibilidade e tolerância a falhas (teorema CAP)."
+  - "Consultas e Indexação: Aprenda a consultar dados em bancos de dados NoSQL e como criar índices eficientes para melhorar o desempenho."
+  - "Exemplos de Uso: Estude casos de uso comuns para bancos de dados NoSQL, como armazenamento de documentos JSON, análise de grafos, armazenamento de séries temporais e muito mais."
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: "SQL — O que é e como funciona na prática?"
+    link: https://medium.com/pravaler-digital-team/sql-o-que-%C3%A9-e-como-funciona-na-pr%C3%A1tica-6ae7a322554a
+  - type: ARTICLE
+    title: "SQL: comandos básicos"
+    link: https://medium.com/nerdzao/sql-comandos-b%C3%A1sicos-483a8dc12909
+  - type: YOUTUBE
+    title: "CreateSe: Comandos básicos do SQL"
+    link: https://www.youtube.com/watch?v=_rZxrqn0X-4
+  - type: YOUTUBE
+    title: "10 conceitos essenciais de SQL que todo desenvolvedor deve saber"
+    link: https://youtu.be/cIUTAyomVPQ    

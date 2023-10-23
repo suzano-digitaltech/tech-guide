@@ -1,0 +1,21 @@
+name: Arquitetura de Dados
+logo: 
+short-description:
+key-objectives:
+  - A Arquitetura de Dados é uma estrutura organizacional que define como os dados são coletados, armazenados, processados e usados em uma organização. Ela serve para garantir a integridade, segurança e eficiência dos dados, facilitando o acesso e análise das informações, contribuindo para tomadas de decisão informadas e melhorias nos processos de negócios.
+  - "Modelos de Dados: Compreender diferentes modelos de dados, como relacional, dimensional, de grafo, documento e chave-valor, e saber quando aplicar cada um deles."
+  - "Integração de Dados: Aprender a integrar dados de fontes diversas, abordando desafios de limpeza, transformação e enriquecimento de dados."
+  - "Estratégias de Armazenamento: Explorar opções de armazenamento de dados, incluindo bancos de dados relacionais, NoSQL, sistemas de arquivos distribuídos e armazenamento em nuvem."
+  - "Esquema e Metadados: Trabalhar com esquemas de dados e metadados para garantir a consistência e o entendimento dos dados."
+  - "Escalabilidade e Desempenho: Projetar arquiteturas de dados que possibilitem escalabilidade horizontal e otimizem o desempenho em ambientes de grande volume de dados."
+  - "Segurança de Dados: Implementar medidas de segurança, como criptografia, controle de acesso e auditoria, para proteger os dados."
+  - "Processamento de Dados em Lote e em Tempo Real: Estudar a diferença entre processamento de dados em lote e em tempo real e escolher as tecnologias apropriadas, como Hadoop, Spark e Kafka."
+  - "Governança de Dados: Implementar políticas e práticas de governança de dados para garantir a qualidade, a conformidade e a responsabilidade dos dados."
+  - "Qualidade de Dados: Desenvolver estratégias para melhorar a qualidade dos dados, incluindo detecção e correção de erros."
+contents:
+  - type: SITE
+    title: "PLACEHOLDER"
+    link: https://www.nist.gov/cyberframework
+  - type: YOUTUBE
+    title: "PLACEHOLDER"
+    link: https://www.youtube.com/watch?v=-JO5oHRkYbk&ab_channel=HackvedaLimited
