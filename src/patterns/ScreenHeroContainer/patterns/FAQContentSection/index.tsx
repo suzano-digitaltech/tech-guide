@@ -104,7 +104,7 @@ export default function FAQContentSection(props: FAQQuestionProps) {
               position: "absolute",
               pointerEvents: "none",
               background:
-                "url('/assets/image/home-illustration-two-illustration.svg') center / cover",
+                "url('assets/image/home-illustration-two-illustration.svg') center / cover",
               bottom: "-10rem",
               left: "-17rem",
             }}

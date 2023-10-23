@@ -7,14 +7,7 @@ export default {
   "MENU.CTA_TEXT": "<Emoji name='fire'/> Monte seu &lt;T&gt;",
   "SCREEN_HERO_CONTAINER.PRE_TITLE": "<Emoji name='star'/> Guie sua carreira!",
   "SCREEN_HERO_CONTAINER.TITLE": "Descubra possíveis caminhos<br /> para se tornar profissional <strong>&lt;em T&gt;</strong>",
-  "SCREEN_HERO_CONTAINER.SUB_TITLE": "A Alura criou o TechGuide.sh para ajudar na sua jornada de aprendizado. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.",
-
-  "SCREEN_HERO_CONTAINER.FIRST_SECTION.TITLE": "Um guia em formato de &ltT&gt;",
-  "SCREEN_HERO_CONTAINER.FIRST_SECTION.SUB_TITLE": "Profissionais em &lt;T&gt; têm profundidade (especialistas) em uma determinada área, além de possuírem conhecimento generalista em assuntos auxiliares.",
-  "SCREEN_HERO_CONTAINER.FIRST_SECTION.BTN": "Selecionar minha carreira!",
-  "SCREEN_HERO_CONTAINER.SECOND_SECTION.TITLE": "Descubra o que dominar em diferentes momentos da sua carreira",
-  "SCREEN_HERO_CONTAINER.SECOND_SECTION.SUB_TITLE": "Dependendo da sua carreira e da sua senioridade, cada tecnologia tem um peso diferente. Saiba a nossa opinião, baseada no mercado, de o que estudar e o quanto estudar.",
-  "SCREEN_HERO_CONTAINER.SECOND_SECTION.BTN": "Selecionar minha carreira!",
+  "SCREEN_HERO_CONTAINER.SUB_TITLE": "Um mapeamento das principais tecnologias demandadas pela área Digital Tech, com nossas sugestões e opiniões.",
 
   "FEATURE_FLAG.BUILD_YOUR_T": false,
   "PATH.T_BLOCK_SUGGESTED_CONTENT": "Conteúdo Recomendado",
@@ -65,27 +58,17 @@ export default {
     {
       "title": "01 - O que é o TechGuide.sh?",
       "answer":
-        "O TechGuide.sh é uma iniciativa da Alura para mapear as necessidades mais comuns em cada profissional de tecnologia, direcionando tanto alunos e alunas quanto a própria escola com novos cursos, conteúdos, podcasts e artigos. Nós seguimos a abordagem do profissional em T, sendo um guia norteador e abrindo mais possibilidades de caminhos, ordem de aprendizado e os motivos de aprender cada um dos itens (cards) em um guia."
+        "O TechGuide.sh é uma iniciativa da Alura para mapear as necessidades mais comuns em cada profissional de tecnologia, direcionando tanto alunos e alunas quanto a própria escola com novos cursos, conteúdos, podcasts e artigos. A abordagem do profissional em T é um guia norteador, abrindo mais possibilidades de caminhos, ordem de aprendizado e os motivos de aprender cada um dos itens (cards) em um guia. Nós da Suzano estamos utilizando a mesma abordagem para o desenvolvimento interno de nossos profissionais."
     },
     {
       "title": "02 - O que é o profissional em T?",
       "answer":
-        "É um profissional que, além da sua especialidade (parte profunda do T), também tem um certo conhecimento em outras áreas (laterais do T) que podem facilitar seu próprio trabalho ou o trabalho em equipe. No site do Dev em T da Alura há bastante a respeito, além de artigos e podcasts: <a href='https://alura.com.br/dev-em-t'>https://alura.com.br/dev-em-t</a>"
+        "É um profissional que, além da sua especialidade (parte profunda do T), também tem um certo conhecimento em outras áreas (laterais do T) que podem facilitar seu próprio trabalho ou o trabalho em equipe."
     },
     {
       "title": "03 - Devo começar a estudar pela parte profunda ou horizontal do T?",
       "answer":
         "A nossa recomendação é que você se foque mais na parte profunda do T, mas sem deixar de lado as laterais também. A ordem de quando estudar o que é você quem vai decidir, mas queremos ser um guia para te ajudar a orientar essas escolhas."
-    },
-    {
-      "title": "04 - Posso sugerir novas carreiras?",
-      "answer":
-        "Sim! Use o mecanismo de contribuição do nossos repositório no <a href='https://github.com/alura/techguide'>Github</a>. Neste momento, estamos focados em corrigir erros e melhorar as carreiras existentes."
-    },
-    {
-      "title": "05 - Posso sugerir alterações ou correções?",
-      "answer":
-        "Sim! Contribuições são bem vindas. Para isso, use o mecanismo de contribuição do nossos repositório no <a href='https://github.com/alura/techguide'>Github</a>."
     }
   ],
   "GUIDES.SHOW_ALL": "Ver todos",
@@ -96,35 +79,15 @@ export default {
       "value": "all"
     },
     {
-      "label": "Front-end",
-      "value": "front-end"
-    },
-    {
-      "label": "Back-end",
-      "value": "back-end"
-    },
-    {
-      "label": "Mobile",
-      "value": "mobile"
-    },
-    {
       "label": "Dados",
       "value": "data"
-    },
-    {
-      "label": "Outros",
-      "value": "others"
-    },
+    }
   ],
   "IMAGES.DISCOVER_IMAGE": "/assets/image/discover-illustration.svg",
-  "FOOTER.YOUTUBE": "https://youtube.com/aluracursosonline",
-  "FOOTER.FACEBOOK": "https://www.facebook.com/AluraCursosOnline/",
-  "FOOTER.INSTAGRAM": "https://www.instagram.com/aluraonline/",
-  "FOOTER.TWITTER": "https://twitter.com/aluraonline",
-  "FOOTER.PLAYSTORE": "https://play.google.com/store/apps/details?id=br.com.alura.mobi",
-  "FOOTER.APPSTORE": "https://apps.apple.com/br/app/alura-cursos-online/id1225776635",
-  "FOOTER.TIKTOK": "https://www.tiktok.com/@aluraonline",
-  "FOOTER.ALURA.LINK": "https://www.alura.com.br/",
+  "FOOTER.YOUTUBE": "https://www.youtube.com/@Suzanooficial",
+  "FOOTER.FACEBOOK": "https://www.facebook.com/suzanoempresa/",
+  "FOOTER.INSTAGRAM": "https://www.instagram.com/suzano_oficial/",
+  "FOOTER.ALURA.LINK": "https://www.suzano.com.br/",
   "MY.GENERATE_GUIDE": "Gerando seu guia...",
   "COMPANIES": [
     {

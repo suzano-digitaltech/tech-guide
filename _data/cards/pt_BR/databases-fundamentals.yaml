@@ -12,15 +12,27 @@ contents:
   - type: YOUTUBE
     title: "Código Fonte TV: SQL // Dicionário do Programador"
     link: https://www.youtube.com/watch?v=kMznyI7r2Tc 
-  - type: YOUTUBE
-    title: "Código Fonte TV: NoSQL // Dicionário do Programador"
-    link: https://www.youtube.com/watch?v=1B64oqE8PLs 
   - type: ARTICLE
     title: "SQL — O que é e como funciona na prática?"
     link: https://medium.com/pravaler-digital-team/sql-o-que-%C3%A9-e-como-funciona-na-pr%C3%A1tica-6ae7a322554a 
   - type: ARTICLE
     title: "SQL: comandos básicos"
     link: https://medium.com/nerdzao/sql-comandos-b%C3%A1sicos-483a8dc12909 
+  - type: SITE
+    title: "Oracle: O que é um banco de dados relacional (RDBMS)?"
+    link: https://www.oracle.com/br/database/what-is-a-relational-database/ 
+  - type: SITE
+    title: "AWS: O que é banco de dados relacional?"
+    link: https://aws.amazon.com/pt/relational-database/ 
+  - type: YOUTUBE
+    title: "10 conceitos essenciais de SQL que todo dev deve saber"
+    link: https://www.youtube.com/watch?v=cIUTAyomVPQ 
+  - type: YOUTUBE
+    title: "Boson Treinamentos: Curso de Modelagem de Dados"
+    link: https://www.youtube.com/watch?v=Q_KTYFgvu1s&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD 
+  - type: YOUTUBE
+    title: "Otávio Miranda: Curso de SQL com MySQL (Completo)"
+    link: https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk 
 alura-contents:
   - type: YOUTUBE
     title: "Alura: O que é SQL e NoSQL?"
@@ -36,10 +48,4 @@ alura-contents:
     link: https://www.alura.com.br/artigos/join-e-seus-tipos 
   - type: COURSE
     title: "Curso SQL com MySQL: manipule e consulte dados"
-    link: https://cursos.alura.com.br/course/mysql-manipule-dados-com-sql 
-  - type: PODCAST
-    title: "NoSQL: por quê?"
-    link: https://cursos.alura.com.br/extra/hipsterstech/nosql-por-que-hipsters-22-a564 
-  - type: COURSE
-    title: "Curso MongoDB: conhecendo um banco de dados NoSQL"
-    link: https://cursos.alura.com.br/course/mongodb-banco-dados-nosql 
+    link: https://cursos.alura.com.br/course/mysql-manipule-dados-com-sql
