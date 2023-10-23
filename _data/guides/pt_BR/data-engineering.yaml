@@ -14,6 +14,18 @@ expertise:
         priority: 10
       - big-data-fundamentals:
         priority: 10
+      - cloud-fundamentals:
+        priority: 10
+      - oop-concepts:
+        priority: 10
+      - data-structures:
+        priority: 10
+      - python-collections:
+        priority: 9
+      - python-testing:
+        priority: 9
+      - python-api:
+        priority: 9
       - pipelines-and-etl:
         priority: 10
       - devops-and-cloud-concepts:
@@ -34,9 +46,15 @@ expertise:
         priority: 10
       - data-lakes:
         priority: 10
-      - cloud-fundamentals:
-        priority: 10
-      - computer-networks-fundamentals:
+      - infrastructure-as-code:
+        priority: 8
+      - ci-cd:
+        priority: 8
+      - software-architecture:
+        priority: 8
+      - data-architecture:
+        priority: 8
+      - no-sql-fundamentals:
         priority: 8
   - name: Data Engineer in depth
     cards:
@@ -48,14 +66,16 @@ expertise:
         priority: 7
       - streaming:
         priority: 8
-      - data-protection:
-        priority: 9
-      - infrastructure_as_code:
+      - python-asynchronous:
         priority: 8
+      - data-protection:
+        priority: 9      
       - data-governance:
         priority: 7
-      - ci-cd:
+      - computer-networks-fundamentals:
         priority: 8
+      - cloud-security:
+        priority: 7
 collaboration:
   - name: Arquitetura de software
     cards:
@@ -67,6 +87,8 @@ collaboration:
         priority: 6
       - data-structures:
         priority: 8
+      - solid:
+        priority: 6
   - name: Dados e Machine Learning
     cards:
       - business-intelligence-fundamentals:
