@@ -43,7 +43,7 @@ export default function Footer() {
                   md: "0",
                 },
               }}
-              src="/assets/image/logo.svg"
+              src="assets/image/logo.svg"
               alt="Logo da plataforma Tech Guide"
             />
           </Link>

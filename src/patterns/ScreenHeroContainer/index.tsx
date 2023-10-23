@@ -64,7 +64,7 @@ export default function ScreenHeroContainer({
                 height: "65.875rem",
                 position: "absolute",
                 background:
-                  "url(/assets/image/home-illustration-one.svg) no-repeat",
+                  "url(assets/image/home-illustration-one.svg) no-repeat",
                 backgroundPositionY: "-54px",
                 zIndex: "1",
                 filter: "blur(9px)",
@@ -94,7 +94,7 @@ export default function ScreenHeroContainer({
                 height: "65.875rem",
                 position: "absolute",
                 background:
-                  "url(/assets/image/home-illustration-one.svg) no-repeat",
+                  "url(assets/image/home-illustration-one.svg) no-repeat",
                 backgroundPositionY: "-54px",
                 zIndex: "1",
                 filter: "blur(9px)",

@@ -36,8 +36,6 @@ expertise:
     cards:
       - distributed-data-processing:
         priority: 10
-      - relational-databases:
-        priority: 10
       - data-pipeline-orchestration:
         priority: 9
       - containers:
