@@ -149,28 +149,8 @@ export default function Footer() {
               </Link>
             </Box>
             <Box tag="li">
-              <Link href={i18n.content("FOOTER.TWITTER")}>
-                <Icon name="twitter" />
-              </Link>
-            </Box>
-            <Box tag="li">
               <Link href={i18n.content("FOOTER.INSTAGRAM")}>
                 <Icon name="instagram" />
-              </Link>
-            </Box>
-            <Box tag="li">
-              <Link href={i18n.content("FOOTER.PLAYSTORE")}>
-                <Icon name="playstore" />
-              </Link>
-            </Box>
-            <Box tag="li">
-              <Link href={i18n.content("FOOTER.APPSTORE")}>
-                <Icon name="appstore" />
-              </Link>
-            </Box>
-            <Box tag="li">
-              <Link href={i18n.content("FOOTER.TIKTOK")}>
-                <Icon name="tiktok" />
               </Link>
             </Box>
           </Box>

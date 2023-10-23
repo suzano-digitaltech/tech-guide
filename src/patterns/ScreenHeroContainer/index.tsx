@@ -103,8 +103,6 @@ export default function ScreenHeroContainer({
           </Box>
         </Box>
       </Box>
-      <FirstContentSection />
-      <SecondContentSection />
       <FAQContentSection questions={guide?.faq} />
       <Footer />
     </>
