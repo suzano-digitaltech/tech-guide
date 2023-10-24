@@ -16,7 +16,6 @@ export default function SecondContentSection() {
           lg: "4.5em",
         },
         alignItems: "center",
-        display:"none"
       }}
     >
       <Box

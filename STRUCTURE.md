@@ -14,7 +14,9 @@
 
 - Clone o projeto `git clone https://github.com/alura/techguide.git`
 - Rode `yarn`
+- Rode `yarn lint --fix`
 - Rode `yarn dev`
+- Acesse `http://localhost:3000/tech-guide/`
 - Pronto 🎉
 
 ## techguide.sh Site

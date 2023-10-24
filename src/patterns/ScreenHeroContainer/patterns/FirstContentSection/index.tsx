@@ -18,7 +18,6 @@ export default function FirstContentSection() {
           md: "7.125em",
         },
         alignItems: "center",
-        display:"none"
       }}
       tag="section"
     >
