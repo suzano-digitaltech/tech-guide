@@ -2,8 +2,6 @@ import { Box } from "@src/components";
 import React from "react";
 import Footer from "../Footer";
 import Menu from "../Menu";
-import FirstContentSection from "./patterns/FirstContentSection";
-import SecondContentSection from "./patterns/SecondContentSection";
 import FAQContentSection from "./patterns/FAQContentSection";
 import HeroTitle from "./patterns/HeroTitle";
 import { PathScreenGetGuideBySlugQuery } from "@src/gql_types";
@@ -103,8 +101,8 @@ export default function ScreenHeroContainer({
           </Box>
         </Box>
       </Box>
-      <FirstContentSection />
-      <SecondContentSection />
+      {/* <FirstContentSection />
+      <SecondContentSection /> */}
       <FAQContentSection questions={guide?.faq} />
       <Footer />
     </>
