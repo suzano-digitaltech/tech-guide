@@ -314,7 +314,7 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
           {i18n.content("TSHAPE.BUTTON.BACK_TO_HOME")}
         </Link>
       </Box>
-      {guide.video && <VideoBlock video={guide.video} />}
+      
     </Box>
   );
 }
