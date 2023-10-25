@@ -36,14 +36,14 @@ export default function Footer() {
           <Link href="/">
             <Image
               styleSheet={{
-                width: { xs: "69px", md: "45px" },
+                width: { xs: "69px", md: "59px" },
                 height: { xs: "69px", md: "45px" },
                 marginBottom: {
                   xs: "2.5em",
                   md: "0",
                 },
               }}
-              src="assets/image/logo.svg"
+              src="assets/image/logo_suzano.png"
               alt="Logo"
             />
           </Link>

@@ -1,12 +1,12 @@
 /* eslint-disable prettier/prettier */
 export default {
-  "HEAD.TITLE": "Tech Guide: guias do Profissional em T",
-  "HEAD.DESCRIPTION": "Encontre o guia perfeito para a sua carreira de tecnologia. Dicas, sugestões, prioridades e links para conteúdo. Tudo isso com a abordagem do profissional em T.",
+  "HEAD.TITLE": "Suzano Digital Tech-Guide",
+  "HEAD.DESCRIPTION": "",
   "HEAD.SHARE_IMAGE": "https://techguide.sh/assets/image/share-image.jpg",
   "MENU.LOGO_ALT": "Logo",
   "MENU.CTA_TEXT": "<Emoji name='fire'/> Monte seu &lt;T&gt;",
   "SCREEN_HERO_CONTAINER.PRE_TITLE": "<Emoji name='star'/> Guie sua carreira!",
-  "SCREEN_HERO_CONTAINER.TITLE": "Conheça as principais<br /> habilidades necessárias na área de <strong>&lt;DigitalTech&gt;</strong>",
+  "SCREEN_HERO_CONTAINER.TITLE": "Conheça as principais<br /> habilidades necessárias na Suzano <strong>&lt;DigitalTech&gt;</strong>",
   "SCREEN_HERO_CONTAINER.SUB_TITLE": "Um mapeamento das principais tecnologias demandadas pela área, com sugestões agregadas pela equipe.",
 
   "FEATURE_FLAG.BUILD_YOUR_T": false,
@@ -50,20 +50,20 @@ export default {
   "TSHAPE.BUTTON.DOWNLOAD_T_FILE": "Baixar esse guia",
 
   "FOOTER.DESCRIPTION": "Um guia de carreiras de DigitalTech · Versão: ",
-  "FOOTER.OPEN_SOURCE_CTA": "O Techguide.sh é um projeto open source, <Link href='https://github.com/alura/techguide' text='confira nosso README' />",
+  "FOOTER.OPEN_SOURCE_CTA": "O Techguide.sh é um projeto open source da Alura, <Link href='https://github.com/alura/techguide' text='confira o README' />",
   "FOOTER.BRING_BY": "Trazido por",
 
-  "FAQ.GLOBAL.TITLE": "Dúvidas e respostas frequentes sobre o TechGuide.sh",
+  "FAQ.GLOBAL.TITLE": "Dúvidas e respostas sobre o Suzano <strong>Digital Tech-Guide</strong>",
   "FAQ.GLOBAL": [
     {
-      "title": "01 - O que é o TechGuide.sh?",
+      "title": "01 - O que é o Suzano Digital Tech-Guide?",
       "answer":
-        "O TechGuide.sh é uma iniciativa da Alura para mapear as necessidades mais comuns em cada profissional de tecnologia, direcionando tanto alunos e alunas quanto a própria escola com novos cursos, conteúdos, podcasts e artigos. A abordagem do profissional em T é um guia norteador, abrindo mais possibilidades de caminhos, ordem de aprendizado e os motivos de aprender cada um dos itens (cards) em um guia. Nós da Suzano estamos utilizando a mesma abordagem para o desenvolvimento interno de nossos profissionais."
+        "Baseado no TechGuide.sh da Alura, o Suzano Digital Tech-Guide mapeia as habilidades necessárias aos profissionais da área, direcionando à cursos, conteúdos, podcasts e artigos. Seguindo a abordagem do profissional em T como um guia norteador, serve para abrir mais possibilidades de caminhos, ordem de aprendizado e os motivos de aprender cada um dos itens (cards) em um guia. Nós da Suzano estamos utilizando a mesma abordagem para o desenvolvimento interno dos profissionais de nossa área."
     },
     {
       "title": "02 - O que é o profissional em T?",
       "answer":
-        "É um profissional que, além da sua especialidade (parte profunda do T), também tem um certo conhecimento em outras áreas (laterais do T) que podem facilitar seu próprio trabalho ou o trabalho em equipe."
+        "É um profissional que, além da sua especialidade (parte profunda do T), também tem um certo conhecimento em outras áreas (laterais do T) que podem facilitar seu próprio trabalho ou o trabalho em equipe. Particularmente imporante quando dividimos a atuação da equipe entre Engenharia e Ciência de Dados, ajudando a aproximar ainda mais as duas áreas de conhecimento."
     },
     {
       "title": "03 - Devo começar a estudar pela parte profunda ou horizontal do T?",
