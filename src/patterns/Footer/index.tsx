@@ -43,7 +43,7 @@ export default function Footer() {
                   md: "0",
                 },
               }}
-              src="assets/image/logo_suzano.png"
+              src="//suzano-digitaltech.github.io/tech-guide/assets/image/logo_suzano.png"
               alt="Logo"
             />
           </Link>

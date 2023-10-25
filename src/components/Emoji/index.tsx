@@ -18,7 +18,7 @@ interface EmojiProps {
 export default function Emoji({ name }: EmojiProps) {
   return (
     <Image
-      src={`assets/emoji/${emojis[name].src}.png`}
+      src={`//suzano-digitaltech.github.io/tech-guide/assets/emoji/${emojis[name].src}.png`}
       alt={`${emojis[name].alt}`}
       styleSheet={{ width: "1.8ch", height: "1.8ch", alignSelf: "center" }}
     />

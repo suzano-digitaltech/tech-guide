@@ -27,7 +27,7 @@ export default function Menu() {
       >
         <Link href="/">
           <Image
-            src="assets/image/logo_suzano.png"
+            src="//suzano-digitaltech.github.io/tech-guide/assets/image/logo_suzano.png"
             alt={i18n.content("MENU.LOGO_ALT")}
             styleSheet={{
               width: "59px",
