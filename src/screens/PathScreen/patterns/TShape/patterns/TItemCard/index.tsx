@@ -201,11 +201,11 @@ function Item({ onClick, categoryName, index, main, card, extra }: any) {
           ...(!main && {
             border: "1px solid transparent",
           }),
-          color: "#03c2e0",
+          color: "#00c85a",
           background: "rgba(3, 194, 224, 0.2)",
           backdropFilter: "blur(0.9159rem)",
           cursor: "pointer",
-          boxShadow: "inset 0 0 0 1px #03c2e0",
+          boxShadow: "inset 0 0 0 1px #00c85a",
         },
       }}
     >

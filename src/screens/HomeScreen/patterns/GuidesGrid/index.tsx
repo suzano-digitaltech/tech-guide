@@ -174,7 +174,7 @@ function ListOfGuides({ children }: { children: React.ReactNode }) {
         },
         width: "100%",
         zIndex: "2",
-        border: "1px solid #6affff",
+        border: "1px solid #00c85a",
       }}
     >
       {children}

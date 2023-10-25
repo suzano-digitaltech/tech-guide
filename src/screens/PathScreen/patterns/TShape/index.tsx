@@ -168,7 +168,7 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
                   textAlign: "center",
                   marginBottom: "9px",
                   ...(isMain && {
-                    background: "#03c2e0",
+                    background: "#00c85a",
                     boxShadow: "0px 0.625rem 2.6875rem #127797",
                   }),
                 }}
@@ -189,7 +189,7 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
                         },
                         textAlign: "center",
                         background: "#08181F",
-                        border: "1px solid #03C2E0",
+                        border: "1px solid #00c85a",
                         borderRadius: "4px",
                         marginBottom: "8px",
                         textTransform: "uppercase",
@@ -206,7 +206,7 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
                         tag="span"
                         styleSheet={{
                           display: "inline-card",
-                          color: "#03C2E0",
+                          color: "#00c85a",
                           whiteSpace: "break-spaces",
                         }}
                       >
@@ -267,11 +267,11 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
               justifyContent: "center",
               flexDirection: "row",
               borderRadius: "8px",
-              border: "1px solid #0052FF",
+              border: "1px solid #1932c8",
               textDecoration: "none",
               padding: "14px",
               fontSize: "14px",
-              backgroundColor: "#0052FF",
+              backgroundColor: "#1932c8",
               hover: {
                 opacity: 1,
                 backgroundColor: "transparent",
@@ -297,17 +297,17 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
             justifyContent: "center",
             flexDirection: "row",
             borderRadius: "8px",
-            border: "1px solid #0052FF",
+            border: "1px solid #1932c8",
             textDecoration: "none",
             padding: "14px",
             fontSize: "14px",
             hover: {
               opacity: 1,
-              backgroundColor: "#0052FF",
+              backgroundColor: "#1932c8",
             },
             focus: {
               opacity: 1,
-              backgroundColor: "#0052FF",
+              backgroundColor: "#1932c8",
             },
           }}
         >

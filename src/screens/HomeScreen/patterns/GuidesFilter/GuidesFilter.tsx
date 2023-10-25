@@ -83,12 +83,12 @@ export function GuidesFilter({ filter, setFilter }: GuidesFilterProps) {
             padding: "14px",
             border: "1px solid #3D454B",
             fontWeight: "600",
-            color: filter === value ? "#07101A" : "#FFFFFF",
-            backgroundColor: filter === value ? "#34D5E3" : "transparent",
+            color: filter === value ? "#ffffff" : "#FFFFFF",
+            backgroundColor: filter === value ? "#00c85a" : "transparent",
             transition: "all 0.2s ease-in-out",
             hover: {
-              color: "#07101A",
-              backgroundColor: "#34D5E3",
+              color: "#ffffff",
+              backgroundColor: "#00c85a",
             },
           }}
           role="tab"

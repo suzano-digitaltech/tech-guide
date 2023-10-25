@@ -185,7 +185,7 @@ function FAQQuestion({ title, answer }: any) {
           >
             <path
               d="M17 10L9 2L1 10"
-              stroke="#03C2E0"
+              stroke="#00c85a"
               strokeWidth="2"
               strokeLinecap="round"
             />
