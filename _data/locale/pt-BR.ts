@@ -49,7 +49,7 @@ export default {
   "TSHAPE.BUTTON.BACK_TO_HOME": "<Icon name='arrowLeft' /> Voltar para seleção de carreiras",
   "TSHAPE.BUTTON.DOWNLOAD_T_FILE": "Baixar esse guia",
 
-  "FOOTER.DESCRIPTION": "Um guia de carreiras de DigitalTech · Versão: ",
+  "FOOTER.DESCRIPTION": "Um guia de carreiras da Suzano DigitalTech · Baseado no <a href='https://techguide.sh/'>Techguide.sh</a> · Versão: ",
   "FOOTER.OPEN_SOURCE_CTA": "O Techguide.sh é um projeto open source da Alura, <Link href='https://github.com/alura/techguide' text='confira o README' />",
   "FOOTER.BRING_BY": "Trazido por",
 
