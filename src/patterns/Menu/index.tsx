@@ -27,11 +27,11 @@ export default function Menu() {
       >
         <Link href="/">
           <Image
-            src="assets/image/logo.svg"
+            src="assets/image/logo_suzano.png"
             alt={i18n.content("MENU.LOGO_ALT")}
             styleSheet={{
-              width: "29px",
-              height: "29px",
+              width: "59px",
+              height: "45px",
             }}
           />
         </Link>
