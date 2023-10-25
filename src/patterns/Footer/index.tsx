@@ -44,7 +44,7 @@ export default function Footer() {
                 },
               }}
               src="assets/image/logo.svg"
-              alt="Logo da plataforma Tech Guide"
+              alt="Logo"
             />
           </Link>
         </Box>
@@ -81,33 +81,14 @@ export default function Footer() {
             }}
           >
             <Link
-              href={i18n.content("FOOTER.ALURA.LINK")}
+              href={i18n.content("FOOTER.SUZANO.LINK")}
               styleSheet={{
                 textDecoration: "none",
                 color: "#FFFFFF",
               }}
             >
-              Alura,
+              Suzano
             </Link>{" "}
-            <Link
-              href="https://www.cursospm3.com.br/"
-              styleSheet={{
-                textDecoration: "none",
-                color: "#FFFFFF",
-              }}
-            >
-              PM3
-            </Link>{" "}
-            e{" "}
-            <Link
-              href="https://www.fiap.com.br/"
-              styleSheet={{
-                textDecoration: "none",
-                color: "#FFFFFF",
-              }}
-            >
-              FIAP
-            </Link>
           </Text>
           <Text>
             {i18n.content("FOOTER.OPEN_SOURCE_CTA", {

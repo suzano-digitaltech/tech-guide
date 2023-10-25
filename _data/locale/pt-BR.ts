@@ -3,11 +3,11 @@ export default {
   "HEAD.TITLE": "Tech Guide: guias do Profissional em T",
   "HEAD.DESCRIPTION": "Encontre o guia perfeito para a sua carreira de tecnologia. Dicas, sugestões, prioridades e links para conteúdo. Tudo isso com a abordagem do profissional em T.",
   "HEAD.SHARE_IMAGE": "https://techguide.sh/assets/image/share-image.jpg",
-  "MENU.LOGO_ALT": "Logo Tech Guide",
+  "MENU.LOGO_ALT": "Logo",
   "MENU.CTA_TEXT": "<Emoji name='fire'/> Monte seu &lt;T&gt;",
   "SCREEN_HERO_CONTAINER.PRE_TITLE": "<Emoji name='star'/> Guie sua carreira!",
-  "SCREEN_HERO_CONTAINER.TITLE": "Descubra possíveis caminhos<br /> para se tornar profissional <strong>&lt;em T&gt;</strong>",
-  "SCREEN_HERO_CONTAINER.SUB_TITLE": "Um mapeamento das principais tecnologias demandadas pela área Digital Tech, com nossas sugestões e opiniões.",
+  "SCREEN_HERO_CONTAINER.TITLE": "Conheça as principais<br /> habilidades necessárias na área de <strong>&lt;DigitalTech&gt;</strong>",
+  "SCREEN_HERO_CONTAINER.SUB_TITLE": "Um mapeamento das principais tecnologias demandadas pela área, com sugestões agregadas pela equipe.",
 
   "FEATURE_FLAG.BUILD_YOUR_T": false,
   "PATH.T_BLOCK_SUGGESTED_CONTENT": "Conteúdo Recomendado",
@@ -49,7 +49,7 @@ export default {
   "TSHAPE.BUTTON.BACK_TO_HOME": "<Icon name='arrowLeft' /> Voltar para seleção de carreiras",
   "TSHAPE.BUTTON.DOWNLOAD_T_FILE": "Baixar esse guia",
 
-  "FOOTER.DESCRIPTION": "Desenvolva sua Carreira em &lt;T&gt; · Versão: ",
+  "FOOTER.DESCRIPTION": "Um guia de carreiras de DigitalTech · Versão: ",
   "FOOTER.OPEN_SOURCE_CTA": "O Techguide.sh é um projeto open source, <Link href='https://github.com/alura/techguide' text='confira nosso README' />",
   "FOOTER.BRING_BY": "Trazido por",
 
@@ -87,7 +87,7 @@ export default {
   "FOOTER.YOUTUBE": "https://www.youtube.com/@Suzanooficial",
   "FOOTER.FACEBOOK": "https://www.facebook.com/suzanoempresa/",
   "FOOTER.INSTAGRAM": "https://www.instagram.com/suzano_oficial/",
-  "FOOTER.ALURA.LINK": "https://www.suzano.com.br/",
+  "FOOTER.SUZANO.LINK": "https://www.suzano.com.br/",
   "MY.GENERATE_GUIDE": "Gerando seu guia...",
   "COMPANIES": [
     {

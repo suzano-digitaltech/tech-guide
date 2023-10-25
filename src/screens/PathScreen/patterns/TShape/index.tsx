@@ -256,7 +256,7 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
         </Text>
         {!isExternalGuide && (
           <Link
-            href={`https://github.com/alura/techguide/blob/main/_data/downloadFiles/${locale}/${guide.slug}.md`}
+            href={`https://github.com/suzano-digitaltech/tech-guide/blob/main/_data/downloadFiles/${locale}/${guide.slug}.md`}
             styleSheet={{
               marginTop: "23px",
               width: "100%",
