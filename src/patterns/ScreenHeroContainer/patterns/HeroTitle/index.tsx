@@ -59,7 +59,7 @@ export default function HeroTitle() {
               tag="strong"
               styleSheet={{
                 color: "white",
-                background: "linear-gradient(to right, #00c85a, #007836)",
+                background: "linear-gradient(to right, #007836, #00c85a)",
                 "-webkit-background-clip": "text",
                 "-webkit-text-fill-color": "transparent",
               }}

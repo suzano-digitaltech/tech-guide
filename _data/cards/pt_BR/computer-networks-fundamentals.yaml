@@ -31,12 +31,3 @@ contents:
   - type: YOUTUBE
     title: "Rede de Computadores - Animação em 3D"
     link: https://www.youtube.com/watch?v=Iqcp3k8DgGw
-  - type: COURSE
-    title: "Enterprise Networking, Security, and Automation"
-    link: https://www.netacad.com/pt-br/courses/networking/ccna-enterprise-networking-security-automation
-  - type: COURSE
-    title: "Switching, Routing, and Wireless Essentials"
-    link: https://www.netacad.com/pt-br/courses/networking/ccna-switching-routing-wireless-essentials
-  - type: COURSE
-    title: "Introduction to Networks"
-    link: https://www.netacad.com/pt-br/courses/networking/ccna-introduction-networks

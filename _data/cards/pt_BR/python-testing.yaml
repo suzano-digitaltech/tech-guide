@@ -33,7 +33,6 @@ contents:
   - type: YOUTUBE
     title: "Programador Lhama: Python Conceitos Rápidos - Testes Unitários"
     link: https://www.youtube.com/watch?v=CwaHM-KLKC8
-alura-contents:
   - type: ARTICLE
     title: "Tipos de testes: quais os principais e por que utilizá-los?"
     link: https://www.alura.com.br/artigos/tipos-de-testes-principais-por-que-utiliza-los
@@ -43,6 +42,3 @@ alura-contents:
   - type: YOUTUBE
     title: "Alura: Pirâmide de Testes"
     link: https://www.youtube.com/watch?v=gVJ1Lap-JYA
-  - type: COURSE
-    title: "Curso Python e TDD: explorando testes unitários"
-    link: https://cursos.alura.com.br/course/python-tdd-explorando-testes-unitarios

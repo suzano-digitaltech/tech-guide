@@ -74,6 +74,7 @@ expertise:
         priority: 8
       - cloud-security:
         priority: 7
+        optional: true
 collaboration:
   - name: Arquitetura de software
     cards:
@@ -99,3 +100,4 @@ collaboration:
         priority: 6
       - statistics-and-math-fundamentals:
         priority: 7
+        optional: true

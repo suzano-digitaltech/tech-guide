@@ -26,13 +26,9 @@ contents:
   - type: YOUTUBE
     title: "Walisson Silva: Requisições HTTP com o módulo requests | Web Scraping com Python"
     link: https://www.youtube.com/watch?v=XRUdG2msE0Q&ab_channel=WalissonSilva
-alura-contents:
   - type: ARTICLE
     title: "Consumindo a API do Github em Python"
     link: https://www.alura.com.br/artigos/consumindo-a-api-do-github-em-python
   - type: ARTICLE
     title: "Como criar APIs em Python usando FastAPI"
     link: https://www.alura.com.br/artigos/como-criar-apis-python-usando-fastapi
-  - type: COURSE
-    title: "Curso API com Django 3"
-    link: https://www.alura.com.br/curso-online-api-django-3-testes-documentacao

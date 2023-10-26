@@ -13,9 +13,12 @@ key-objectives:
   - "Governança de Dados: Implementar políticas e práticas de governança de dados para garantir a qualidade, a conformidade e a responsabilidade dos dados."
   - "Qualidade de Dados: Desenvolver estratégias para melhorar a qualidade dos dados, incluindo detecção e correção de erros."
 contents:
-  - type: SITE
-    title: "PLACEHOLDER"
-    link: https://www.nist.gov/cyberframework
-  - type: YOUTUBE
-    title: "PLACEHOLDER"
-    link: https://www.youtube.com/watch?v=-JO5oHRkYbk&ab_channel=HackvedaLimited
+  - type: ARTICLE
+    title: "Data architecture for the uninitiated"
+    link: https://medium.com/@danielmarkoski/data-architecture-for-the-uninitiated-part-one-291fb401be5a
+  - type: ARTICLE
+    title: "The Past, Present, and Future of Data Architecture"
+    link: https://medium.com/@diogo22santos/the-past-present-and-future-of-data-architecture-bd23dea0654b
+  - type: ARTICLE
+    title: "Designing the Right Data Architecture"
+    link: https://articles.xebia.com/designing-the-right-data-architecture
