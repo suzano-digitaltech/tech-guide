@@ -169,7 +169,7 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
                   marginBottom: "9px",
                   ...(isMain && {
                     background: "#00c85a",
-                    boxShadow: "0px 0.625rem 2.6875rem #127797",
+                    boxShadow: "0px 0.625rem 2.6875rem #007836",
                   }),
                 }}
               >
@@ -267,11 +267,11 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
               justifyContent: "center",
               flexDirection: "row",
               borderRadius: "8px",
-              border: "1px solid #1932c8",
+              border: "1px solid #007836",
+              backgroundColor: "#007836",
               textDecoration: "none",
               padding: "14px",
               fontSize: "14px",
-              backgroundColor: "#1932c8",
               hover: {
                 opacity: 1,
                 backgroundColor: "transparent",
@@ -297,17 +297,17 @@ export default function TShape({ guide, externalGuideCreator }: TShapeProps) {
             justifyContent: "center",
             flexDirection: "row",
             borderRadius: "8px",
-            border: "1px solid #1932c8",
+            border: "1px solid #007836",
             textDecoration: "none",
             padding: "14px",
             fontSize: "14px",
             hover: {
               opacity: 1,
-              backgroundColor: "#1932c8",
+              backgroundColor: "#007836",
             },
             focus: {
               opacity: 1,
-              backgroundColor: "#1932c8",
+              backgroundColor: "#007836",
             },
           }}
         >

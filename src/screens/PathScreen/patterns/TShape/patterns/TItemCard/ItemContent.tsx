@@ -42,7 +42,7 @@ export default function ItemContent({
           alignItems: "center",
           backgroundAttatchment: "fixed",
           background:
-            "linear-gradient(180deg, rgba(62, 180, 231, 0.8) 8.34%, rgba(117, 236, 234, 0.8) 32.88%, rgba(11, 12, 34, 0.8) 100%)",
+            "linear-gradient(180deg, rgba(0, 200, 90, 0.8) 8.34%, rgba(0, 120, 54, 0.8) 32.88%, rgba(11, 12, 34, 0.8) 100%)",
         }}
       >
         <Text
@@ -212,7 +212,6 @@ export default function ItemContent({
               fontSize: "16px",
               lineHeight: "150%",
               marginBottom: "27px",
-              color: "#88B8DB",
             }}
           >
             {i18n.content("PATH.T_BLOCK_SUGGESTED_CONTENT")}

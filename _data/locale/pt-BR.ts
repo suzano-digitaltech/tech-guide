@@ -91,50 +91,23 @@ export default {
   "MY.GENERATE_GUIDE": "Gerando seu guia...",
   "COMPANIES": [
     {
-      "githubUser": "bancodobrasil",
-      "name": "Banco do Brasil",
-      "logo": "/assets/image/company/bb.png",
-      "description":
-        "Estes guias foram criados pelo <strong>Banco do Brasil</strong> para te ajudar a descobrir caminhos e se tornar profissional <strong>&lt;em T&gt;</strong>.",
-      "guideDescription": "Este guia foi criado pelo <strong>Banco do Brasil</strong> para te ajudar a descobrir caminhos e se tornar profissional <strong>&lt;em T&gt;</strong>.",
+      "githubUser": "",
+      "name": "",
+      "logo": "",
+      "description": "",
+      "guideDescription": "",
       "guides": [
         {
           "title": "Front-end Web",
-          "link": "/my?url=https://github.com/bancodobrasil/techguide/blob/bb/externals/bb/frontend-web.json",
+          "link": "",
         },
         {
           "title": "Mobile iOS",
-          "link": "/my?url=https://github.com/bancodobrasil/techguide/blob/bb/externals/bb/mobile-ios.json",
+          "link": "",
         },
         {
           "title": "Mobile DevOps",
-          "link": "/my?url=https://github.com/bancodobrasil/techguide/blob/bb/externals/bb/mobile-devops.json",
-        },
-      ],
-    },
-    {
-      "githubUser": "holding-digital",
-      "name": "Dasa",
-      "logo": "/assets/image/company/dasa.png",
-      "description":
-        "Estes guias foram criados pela <strong>Dasa</strong> para te ajudar a descobrir caminhos e se tornar profissional <strong>&lt;em T&gt;</strong>.",
-      "guideDescription": "Este guia foi criado pela <strong>Dasa</strong> para te ajudar a descobrir caminhos e se tornar profissional <strong>&lt;em T&gt;</strong>.",
-      "guides": [
-        {
-          "title": "Back-end - NodeJS",
-          "link": "/my?url=https://github.com/holding-digital/techguide/blob/dasa/externals/dasa/backend.json",
-        },
-        {
-          "title": "Qualidade de Software",
-          "link": "/my?url=https://github.com/holding-digital/techguide/blob/dasa/externals/dasa/quality-assurance.json",
-        },
-        {
-          "title": "Front-end Web",
-          "link": "/my?url=https://github.com/holding-digital/techguide/blob/dasa/externals/dasa/frontend-web.json",
-        },
-        {
-          "title": "Front-end Mobile",
-          "link": "/my?url=https://github.com/holding-digital/techguide/blob/dasa/externals/dasa/frontend-mobile.json",
+          "link": "",
         },
       ],
     }

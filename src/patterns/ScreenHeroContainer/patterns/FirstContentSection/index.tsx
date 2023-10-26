@@ -69,7 +69,7 @@ export default function FirstContentSection() {
               height: "28.75rem",
               position: "absolute",
               background:
-                "url('assets/image/home-illustration-two-illustration.svg') center / cover",
+                "url('//suzano-digitaltech.github.io/tech-guide/assets/image/home-illustration-two-illustration.svg') center / cover",
               bottom: "-10rem",
               left: "-17rem",
             }}
@@ -83,7 +83,7 @@ export default function FirstContentSection() {
               },
               height: "auto",
             }}
-            src="assets/image/home-illustration-two.svg"
+            src="//suzano-digitaltech.github.io/tech-guide/assets/image/home-illustration-two.svg"
             alt="T"
           />
         </Box>
