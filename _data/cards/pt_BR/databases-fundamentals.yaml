@@ -33,7 +33,6 @@ contents:
   - type: YOUTUBE
     title: "Otávio Miranda: Curso de SQL com MySQL (Completo)"
     link: https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk 
-alura-contents:
   - type: YOUTUBE
     title: "Alura: O que é SQL e NoSQL?"
     link: https://www.youtube.com/watch?v=aure5d3B88g 
@@ -45,7 +44,4 @@ alura-contents:
     link: https://www.alura.com.br/artigos/sql-consultas-com-select 
   - type: ARTICLE
     title: "JOIN e seus tipos"
-    link: https://www.alura.com.br/artigos/join-e-seus-tipos 
-  - type: COURSE
-    title: "Curso SQL com MySQL: manipule e consulte dados"
-    link: https://cursos.alura.com.br/course/mysql-manipule-dados-com-sql
+    link: https://www.alura.com.br/artigos/join-e-seus-tipos

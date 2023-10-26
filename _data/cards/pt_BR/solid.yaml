@@ -23,7 +23,6 @@ contents:
   - type: YOUTUBE
     title: "Dev Eficiente: SOLID - Uma reflexão sobre o Princípio da responsabilidade única"
     link: https://www.youtube.com/watch?v=GGe0o_v5vjM
-alura-contents:
   - type: ARTICLE
     title: "Design patterns: Breve introdução aos padrões de projeto"
     link: https://www.alura.com.br/artigos/design-patterns-introducao-padroes-projeto
@@ -36,24 +35,12 @@ alura-contents:
   - type: YOUTUBE
     title: "Alura: Curso de SOLID com Java"
     link: https://www.youtube.com/watch?v=2SbKmijNi70
-  - type: COURSE
-    title: "Curso SOLID com C#: princípios da programação orientada a objetos"
-    link: https://cursos.alura.com.br/course/solid-csharp-principios-orientacao-a-objetos
-  - type: COURSE
-    title: "Curso SOLID com Java: princípios da programação orientada a objetos"
-    link: https://cursos.alura.com.br/course/solid-orientacao-objetos-java
-  - type: COURSE
-    title: "Curso SOLID com PHP: princípios da programação orientada a objetos"
-    link: https://cursos.alura.com.br/course/solid-php-principios-orientacao-a-objetos
-  - type: COURSE
-    title: "Boas práticas em C#"
-    link: https://cursos.alura.com.br/formacao-boas-praticas-c-sharp
-  - type: COURSE
-    title: "Boas práticas em PHP"
-    link: https://cursos.alura.com.br/formacao-boas-praticas-php
+  - type: ARTICLE
+    title: "SOLID com Python: Entendendo os 5 princípios na prática"
+    link: https://medium.com/@viniciuschan/solid-com-python-entendendo-os-5-princ%C3%ADpios-na-pr%C3%A1tica-f2af330b7751
   - type: SITE
-    title: "Livro Casa do Código: Desbravando SOLID - Práticas avançadas para códigos de qualidade em Java moderno"
-    link: https://www.casadocodigo.com.br/products/livro-desbravando-solid
+    title: "SOLID Principles: Improve Object-Oriented Design in Python"
+    link: https://realpython.com/solid-principles-python/
   - type: YOUTUBE
     title: "Rodrigo Vianna: SOLID e o 'D' do Principio da Inversão de Dependência usando a Injeção de Dependência para ajudar"
     link: https://youtu.be/xpcCDCH5k4Y

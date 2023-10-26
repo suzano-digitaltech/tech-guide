@@ -13,6 +13,9 @@ contents:
   - type: SITE
     title: "DESIGN PATTERNS"
     link: https://refactoring.guru/design-patterns/catalog
+  - type: ARTICLE
+    title: "Software Architecture Patterns: Most Important Architecture Patterns With Real-World Examples"
+    link: https://thestartupcto.org/software-architecture-patterns-most-important-architecture-patterns-with-examples-951607318fe3
   - type: YOUTUBE
-    title: "PLACEHOLDER"
-    link: https://www.youtube.com/watch?v=-JO5oHRkYbk&ab_channel=HackvedaLimited
+    title: "Arquitetura de Software (Não é coisa de outro mundo) // Dicionário do Programador"
+    link: https://www.youtube.com/watch?v=kYx1QC1XZSo

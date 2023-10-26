@@ -1,4 +1,4 @@
-name: SQL - Fundamentos
+name: NoSQL - Fundamentos
 logo: 
 short-description:
 key-objectives:
@@ -29,6 +29,3 @@ contents:
   - type: PODCAST
     title: "NoSQL: por quê?"
     link: https://cursos.alura.com.br/extra/hipsterstech/nosql-por-que-hipsters-22-a564
-  - type: COURSE
-    title: "Curso MongoDB: conhecendo um banco de dados NoSQL"
-    link: https://cursos.alura.com.br/course/mongodb-banco-dados-nosql 

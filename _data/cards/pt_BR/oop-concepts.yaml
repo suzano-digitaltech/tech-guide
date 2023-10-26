@@ -26,7 +26,6 @@ contents:
   - type: YOUTUBE
     title: "Giuliana Bezerra: Desmistificando os tipos de referência - Ep. 8"
     link: https://youtu.be/D9hANYbPYCc
-alura-contents:
   - type: PODCAST
     title: "Hipsters.tech: TechGuide - Orientação a Objetos – Hipsters Ponto Tech #350"
     link: https://www.hipsters.tech/techguide-orientacao-a-objetos-hipsters-ponto-tech-350/
@@ -45,18 +44,3 @@ alura-contents:
   - type: YOUTUBE
     title: "Alura: Imersão Java: Orientação a Objetos, APIs e além (e live coding!)"
     link: https://www.youtube.com/watch?v=WdT90ffB-0Q
-  - type: COURSE
-    title: "Formação Java e Orientação a Objetos"
-    link: https://cursos.alura.com.br/formacao-java
-  - type: COURSE
-    title: "Formação C# e Orientação a Objetos"
-    link: https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos
-  - type: COURSE
-    title: "Formação Python e orientação a objetos"
-    link: https://cursos.alura.com.br/formacao-Python-linguagem
-  - type: COURSE
-    title: "Curso Orientação a Objetos com PHP: Classes, métodos e atributos"
-    link: https://www.alura.com.br/curso-online-php-oo-classes-metodos-atributos
-  - type: COURSE
-    title: "Curso JavaScript: programação orientada a objetos"
-    link: https://www.alura.com.br/curso-online-javascript-passos-programacao-orientada-objetos

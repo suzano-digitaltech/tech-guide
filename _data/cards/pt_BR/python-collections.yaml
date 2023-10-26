@@ -23,7 +23,6 @@ contents:
   - type: YOUTUBE
     title: "Python 42: Coleções no Python | Listas, tuplas, conjuntos e dicionários"
     link: https://www.youtube.com/watch?v=7uVwpmuw4Yg
-alura-contents:
   - type: ARTICLE
     title: "Compreensão de listas no Python"
     link: https://www.alura.com.br/artigos/simplicando-o-processamento-com-compreensao-de-lista-do-python
@@ -36,9 +35,3 @@ alura-contents:
   - type: ARTICLE
     title: "Python: Trabalhando com dicionários"
     link: https://www.alura.com.br/artigos/trabalhando-com-o-dicionario-no-python
-  - type: COURSE
-    title: "Curso Python Collections parte 1: listas e tuplas"
-    link: https://cursos.alura.com.br/course/python-collections-listas-e-tuplas
-  - type: COURSE
-    title: "Curso Python Collections parte 2: conjuntos e dicionários"
-    link: https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios
