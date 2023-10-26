@@ -26,8 +26,8 @@ const StyledBox = styled.li<any>`
     content: "";
     width: 100%;
     height: 100%;
-    background: linear-gradient(145.25deg, #6affff 4.09%, #00aec9 81.45%);
-    box-shadow: 0px 11px 51px #127797;
+    background: linear-gradient(145.25deg, #007836 4.09%, #00c85a 81.45%);
+    box-shadow: 0px 10px 35px #007836;
     border-radius: 14px;
     cursor: pointer;
     position: absolute;
