@@ -62,7 +62,7 @@ export default function ScreenHeroContainer({
                 height: "65.875rem",
                 position: "absolute",
                 background:
-                  "url(//suzano-digitaltech.github.io/tech-guide/assets/image/home-illustration-one.svg) no-repeat",
+                  "url(//suzano-digitaltech.github.io/tech-guide/assets/image/home-illustration-one.png) no-repeat",
                 backgroundPositionY: "-54px",
                 zIndex: "1",
                 filter: "blur(9px)",
@@ -92,7 +92,7 @@ export default function ScreenHeroContainer({
                 height: "65.875rem",
                 position: "absolute",
                 background:
-                  "url(//suzano-digitaltech.github.io/tech-guide/assets/image/home-illustration-one.svg) no-repeat",
+                  "url(//suzano-digitaltech.github.io/tech-guide/assets/image/home-illustration-one.png) no-repeat",
                 backgroundPositionY: "-54px",
                 zIndex: "1",
                 filter: "blur(9px)",
